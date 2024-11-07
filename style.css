@@ -1,0 +1,136 @@
+:root{
+font-family: Arial, Helvetica;
+}
+
+body{
+background-color: #F3F2F4;
+}
+#titulo{
+text-align:center;
+color:#FFDE59;
+}
+
+#titulo2{
+text-align:center;
+color:#FFDE59;
+}
+
+#titulo3{
+text-align:center;
+color:#FFDE59;
+}
+
+#titulo4{
+text-align:center;
+color:#FFDE59;
+}
+
+#titulo5{
+text-align:center;
+color:#FFDE59;
+}
+
+#descripcion{
+color:#232326;
+font-size: 24px;
+}
+
+#descripcion2{
+color:#232326;
+font-size: 24px;
+}
+
+#descripcion3{
+color:#232326;
+font-size: 24px;
+}
+
+#descripcion4{
+color:#232326;
+font-size: 24px;
+}
+
+#descripcion5{
+color:#232326;
+font-size: 24px;
+}
+
+
+
+#menu{
+text-align:center;
+background-color:#FFDE59;
+}
+#lista-menu{
+display:flex;
+justify-content:center;
+align-items:center;
+gap:20px;
+color:#FFDE59;
+padding-top:10px;
+padding-bottom:10px;
+list-style:none;
+}
+.menu-item{
+color:#fff;
+font-size: 18px;
+}
+.enlace-menu{
+text-decoration: none;
+}
+
+#contenedor-1{
+    width: 65vw;
+    height: 40vh;
+    background-image: url("img05.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:#fff;
+
+    }
+    
+    #contenedor-2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width:100vw;
+    height: 400px;
+    background-color:#FFF;
+    color:#fff;
+    margin-top: 20px;
+    margin-bottom:20px;
+    }
+    
+    #contenedor-3{
+    background-image: url(img02.jpg); width: 95vw; height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color:#fff;
+    
+    }
+    
+    #contenedor-4{
+    width:300px;
+    height: 300px;
+    background-image: url("img03.webp"); width: 100vw; height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color:#fff;
+    
+    }
+    
+    #contenedor-5{
+    width:300px;
+    height: 300px;
+    background-image: url("img04.png"); width: 100vw; height: 100vhj;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color:#fff;
+
+    }
+    
+  
